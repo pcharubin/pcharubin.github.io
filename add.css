@@ -1,6 +1,6 @@
 *{
-margin:100px; s
-padding:100px;
+margin:0px; s
+padding:0px;
 }
 h1{
 
@@ -22,8 +22,7 @@ text-align:center;
 
 #cz_glowna
 {
-border:1px solid black;
-width:1000px;
+
 margin:20px auto;
 text-align:left;
 }
