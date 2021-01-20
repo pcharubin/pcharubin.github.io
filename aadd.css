@@ -31,3 +31,26 @@ input[type=submit]:hover {
   background-color: #f2f2f2;
   padding: 20px;
 }
+body {background: url(images/tlo.png) repeat-y center top #F2FFD8; margin: auto; text-align:center;}
+
+
+img {border:0px;}
+
+
+a:link {color: #89A500; text-decoration: underline;}
+a:visited {color: #89A500; text-decoration: underline;}
+#gora {background: url(images/gora.png) repeat-x center top #FFF; width:780px; height:150px; clear:both; margin: auto;}
+
+#gora h1 {padding:0; margin:0; padding-top:35px;}
+#menu {width:778px; height:30px; clear:both; margin: auto; background:#555555;}
+
+#menu ul {list-style: none; width:780px; padding:0; margin:0;}
+
+#menu li {float: left; padding: 0 15px;}
+
+#menu a:link {font-size: 22px; color: #fff; text-decoration: none;}
+#menu a:visited {font-size: 22px; color: #fff; text-decoration: none;}
+#menu a:hover {text-decoration: underline;}
+
+#stopka {clear:both; width:500px; height:100%; margin: auto;margin-top:100px; padding: 15px; border: 1px solid #eeeeee; }
+
