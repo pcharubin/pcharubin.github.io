@@ -18,7 +18,7 @@ a:visited {color: #89A500; text-decoration: underline;}
 #menu a:link {font-size: 22px; color: #fff; text-decoration: none;}
 #menu a:visited {font-size: 22px; color: #fff; text-decoration: none;}
 #menu a:hover {text-decoration: underline;}
-#kontener {display:block; width:640px; overflow:hidden; text-align: left; height:100%; clear:both; margin: auto;}
+#kontener {display:block; width:640px; overflow:hidden; text-align: center; height:100%; clear:both; margin: auto;}
 #kontener h1 {text-align: center;}
 #stopka {clear:both; width:500px; height:100%; margin: auto;margin-top:100px; padding: 15px; border: 1px solid #eeeeee; }
 
